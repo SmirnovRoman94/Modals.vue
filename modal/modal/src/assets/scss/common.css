@@ -1,0 +1,56 @@
+label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+input {
+  padding: 16px 26px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+
+textarea {
+  padding: 30px 27px;
+  border-radius: 14px;
+}
+
+input, textarea {
+  width: 100%;
+}
+
+.btn {
+  display: inline-block;
+  padding: .8em 2.6em;
+  margin: 20px 0;
+  line-height: 1;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.btn.btnDefaul {
+  color: #ffffff;
+  border: 1px solid #333333;
+  background-color: #333333;
+}
+
+.btn.btnPrimary {
+  color: #ffffff;
+  border: 1px solid #494ce8;
+  background-color: #494ce8;
+}
+
+.btn.btnDanger {
+  color: #ffffff;
+  border: 1px solid #b54040;
+  background-color: #b53f3f;
+}
+
+.btn.btnWhite {
+  color: #333333;
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
+}
+/*# sourceMappingURL=common.css.map */
